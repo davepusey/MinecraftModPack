@@ -24,15 +24,15 @@
 
 ## For shaders:
 
-- **Bobby** 5.0.0 (https://modrinth.com/mod/bobby)
-- **Iris Shaders** 1.6.5 (https://modrinth.com/mod/iris)
-- **Sodium** 0.5 (https://modrinth.com/mod/sodium)
+- **Bobby** 5.1.0 (https://modrinth.com/mod/bobby)
+- **Iris Shaders** 1.6.7 (https://modrinth.com/mod/iris)
+- **Sodium** 0.5.1 (https://modrinth.com/mod/sodium)
 
 Currently using an unreleased patched version of Bobby to support Sodium 0.5
 
-See: https://github.com/Johni0702/bobby/issues/197#issuecomment-1668393415
+See: https://github.com/Johni0702/bobby/pull/199#issuecomment-1674487420
 
-Download: https://github.com/Johni0702/bobby/files/12284104/libs.zip
+Download: https://github.com/Johni0702/bobby/files/12320327/bobby-5.1.0-dev.tar.gz
 
 ---
 
