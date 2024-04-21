@@ -9,7 +9,7 @@
 
 ## Critical core mods:
 
-- **Mod Menu** 7.0.0 (https://modrinth.com/mod/modmenu)
+- **Mod Menu** 7.0.1 (https://modrinth.com/mod/modmenu)
 - **NoChatReports** 2.2.0 (https://modrinth.com/mod/no-chat-reports)
 
 ---
@@ -54,8 +54,8 @@
 - **ShulkerBoxTooltip** 4.0.1 (https://modrinth.com/mod/shulkerboxtooltip)
 - **Symbol Chat** 1.0.0 (https://modrinth.com/mod/symbol-chat)
 - **WTHIT** 8.1.0 (https://modrinth.com/mod/wthit)
-- **Xaero's World Map** 1.30.3 (https://modrinth.com/mod/xaeros-world-map)
-- **Xaero's Minimap** 23.4.4 (https://modrinth.com/mod/xaeros-minimap)
+- **Xaero's World Map** 1.37.2 (https://modrinth.com/mod/xaeros-world-map)
+- **Xaero's Minimap** 23.9.3 (https://modrinth.com/mod/xaeros-minimap)
 
 ---
 
@@ -65,3 +65,11 @@
 - **Fabric API** 0.83.0 (https://modrinth.com/mod/fabric-api)
 - **owo-lib** 0.11.0 (https://modrinth.com/mod/owo-lib)
 
+---
+
+## Additional mods (with specific versions) required for HermitCraft S9 / Decked Out
+
+- **AudioPlayer** 1.7.1 (https://modrinth.com/mod/audioplayer/version/fabric-1.20.1-1.7.1)
+- **Carpet** 1.4.112 (https://modrinth.com/mod/carpet/version/1.4.112)
+- **Lithium** 0.11.2 (https://modrinth.com/mod/lithium/version/mc1.20-0.11.2)
+- **Simple Voice Chat** 2.4.25 (https://modrinth.com/plugin/simple-voice-chat/version/fabric-1.20.1-2.4.25)
